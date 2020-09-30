@@ -1,0 +1,63 @@
+body
+{
+	padding: 15px;
+	
+}
+#myName{
+    font-size:8em;
+    font-family: 'Neuton', serif;
+    text-align:center;
+	padding-top: 7%;
+	text-shadow: 12px 12px 15px black;
+}
+#home
+{
+	
+	color:#0000ff;
+	
+	
+}
+.edu
+{
+	text-align:center;
+	font-size:150%;
+}
+.img
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+h2
+{
+	
+    font-family: 'Neuton', serif;
+   
+	text-align:center;
+	padding-top: 5%;
+	text-shadow: 4px 4px 6px black;
+}
+p
+{
+	font-family: 'Neuton', serif;
+}
+.size
+{
+	width:75%;
+}
+.pad
+{
+	padding-bottom:5%;
+}
+.bp
+{
+	background-image:url("../Media/bp5.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:100%;
+	width:100%;
+}
+.social
+{
+	margin-left:2%;
+}
