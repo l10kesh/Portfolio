@@ -10,7 +10,7 @@ body
 	padding-top: 7%;
 	text-shadow: 12px 12px 15px black;
 }
-#home
+.home
 {
 	
 	color:#0000ff;
@@ -21,6 +21,7 @@ body
 {
 	text-align:center;
 	font-size:150%;
+	color:#0000ff;
 }
 .img
 {
@@ -48,16 +49,20 @@ p
 .pad
 {
 	padding-bottom:5%;
+	color:#0000ff;
 }
 .bp
 {
 	background-image:url("../Media/bp5.jpg");
 	background-repeat:no-repeat;
-	background-size:cover;
-	height:100%;
-	width:100%;
+	background-size:100%;
+	
 }
 .social
 {
 	margin-left:2%;
+}
+#contact
+{
+	text-align:center;
 }
